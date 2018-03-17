@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+.abc{
+	font-size: 13px;
+	font-family: "inherit";
+}
+.navi {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 11px;
+	background-color: #5FE79B;
+}
